@@ -1,16 +1,43 @@
-## Hi there 👋
+# ¡Hola! Soy Freddy De La Rosa Carmona 👋
 
-<!--
-**Freddy-De-La-Rosa/Freddy-De-La-Rosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un profesional comprometido con el desarrollo social y educativo, dedicado a contribuir a la formación de ciudadanos autónomos y reflexivos. Mi propósito es fomentar el aprendizaje significativo que permita a las personas transformar su entorno mediante la investigación educativa y pedagógica.
 
-Here are some ideas to get you started:
+## 🧠 Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Formación Académica**:
+  - Maestría en Educación con énfasis en Ciencias Exactas - Universidad de Cartagena (2021).
+  - Especialización en Matemáticas Avanzadas - Universidad de Cartagena (2014).
+  - Ingeniería de Sistemas - Universidad de San Buenaventura, Cartagena.
+
+- **Habilidades**:
+  - Dominio en **Ciencias Matemáticas** y **Pedagogía**.
+  - Experiencia interdisciplinaria trabajando con docentes de diversas áreas.
+  - Capacidades en resolución de conflictos en entornos laborales y sociales.
+  - Competencias técnicas en programación, redes y sistemas informáticos.
+
+- **Otros Estudios Destacados**:
+  - Diplomados en Investigación Educativa, Redes Inalámbricas y Formación Pedagógica Básica.
+  - Cursos de fortalecimiento tecnológico, informática y gestión de calidad.
+
+## 💼 Experiencia Laboral
+
+- **Docente Universitario**: Fundación Universitaria San Martín (2008 - presente).
+  - Materias impartidas: Fundamentos de Matemáticas, Estadística, Programación, entre otras.
+  
+- **Docente del Magisterio**: Secretaría de Educación Departamental (2019 - presente).
+  - Materias impartidas: Matemáticas, Estadística, Geometría, Tecnología e Informática.
+  
+- **Coordinador y Docente en Educación Básica y Media**: Colegio De La Salle Cartagena (2006 - 2017).
+  - Coordinación de desarrollo humano y docencia en Tecnología e Informática.
+
+## 🌱 Objetivos y Valores
+
+Creo firmemente en el trabajo en equipo y la interdisciplinariedad como herramientas para alcanzar metas educativas y sociales. Mi misión es ayudar a que los educandos se integren consciente y afectivamente a su entorno, desarrollando habilidades que les permitan ser agentes de cambio.
+
+## 📫 Contáctame
+
+- 📧 **Email**: freddydelarosa@hotmail.com
+- 📞 **Teléfonos**: +57 3103664751 | +57 3217978742
+- 🌍 **Ubicación**: Cartagena, Colombia
+
+¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos educativos, tecnológicos o sociales que busquen marcar la diferencia. 🚀
