@@ -37,7 +37,7 @@ Creo firmemente en el trabajo en equipo y la interdisciplinariedad como herramie
 ## 📫 Contáctame
 
 - 📧 **Email**: freddydelarosa@hotmail.com
-- 📞 **Teléfonos**: +57 3103664751 | +57 3217978742
+- 📞 **Teléfonos**: +57 3103664751
 - 🌍 **Ubicación**: Cartagena, Colombia
 
 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos educativos, tecnológicos o sociales que busquen marcar la diferencia. 🚀
